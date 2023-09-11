@@ -1,7 +1,7 @@
 #header-menu {
   background-color: black;
   display: flex;
-  flex-direction: roww;
+  flex-direction: row;
   top-margin: 0;
   left:0;
   right: 0;
